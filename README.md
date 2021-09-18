@@ -1,6 +1,6 @@
 # heart_failure
 
-![heart_failure text](heart_failure.jpg)
+![heart_failure text](Pictures\heart_failure.png)
 
 ## Objective
 
@@ -25,9 +25,8 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 The dataframe consits of 299 rows × 13 columns:
 
-| Syntax | Description |
-| ----------- | ----------- |
 | column_name | description |
+| ----------- | ----------- |
 | age | patients age |
 | anaemia | Decrease of red blood cells or hemoglobin (boolean) |
 | creatinine_phosphokinase | Level of the CPK enzyme in the blood (mcg/L) |
