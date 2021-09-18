@@ -1,6 +1,6 @@
 # heart_failure
 
-![heart_failure text](Pictures\heart_failure.png)
+![heart_failure text](heart_failure.png)
 
 ## Objective
 
