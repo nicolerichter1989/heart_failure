@@ -24,19 +24,23 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ### Shape of the Data
 
 The dataframe consits of 299 rows × 13 columns:
-1. age
-2. anaemia
-3. creatinine_phosphokinase
-4. diabetes
-5. ejection_fraction
-6. high_blood_pressure
-7. platelets
-8. serum_creatinine
-9. serum_sodium
-10. sex
-11. smoking
-12. time
-13. death_event
+
+| Syntax | Description |
+| ----------- | ----------- |
+| column_name | description |
+| age | patients age |
+| anaemia | Decrease of red blood cells or hemoglobin (boolean) |
+| creatinine_phosphokinase | Level of the CPK enzyme in the blood (mcg/L) |
+| diabetes | If the patient has diabetes (boolean) |
+| ejection_fraction | Percentage of blood leaving the heart at each contraction (percentage |
+| high_blood_pressure | If the patient has hypertension (boolean) |
+| platelets | Platelets in the blood (kiloplatelets/mL) |
+| serum_creatinine | Level of serum creatinine in the blood (mg/dL) |
+| serum_sodium | Level of serum sodium in the blood (mEq/L) |
+| sex | Woman or man (binary) |
+| smoking | If the patient smokes or not (boolean) |
+| time | Follow-up period (days) |
+| death_event | If the patient deceased during the follow-up period (boolean) |
 
 ### Workflow
 
