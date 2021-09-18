@@ -1,6 +1,6 @@
 # heart_failure
 
-![heart_failure text](heart_failure.png)
+![heart_failure](heart_failure.png)
 
 ## Objective
 
@@ -25,13 +25,13 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 The dataframe consits of 299 rows × 13 columns:
 
-| column_name | description |
+| Column name | Description |
 | ----------- | ----------- |
 | age | patients age |
 | anaemia | Decrease of red blood cells or hemoglobin (boolean) |
 | creatinine_phosphokinase | Level of the CPK enzyme in the blood (mcg/L) |
 | diabetes | If the patient has diabetes (boolean) |
-| ejection_fraction | Percentage of blood leaving the heart at each contraction (percentage |
+| ejection_fraction | Percentage of blood leaving the heart at each contraction (percentage) |
 | high_blood_pressure | If the patient has hypertension (boolean) |
 | platelets | Platelets in the blood (kiloplatelets/mL) |
 | serum_creatinine | Level of serum creatinine in the blood (mg/dL) |
