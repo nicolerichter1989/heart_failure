@@ -1,4 +1,4 @@
-# heart_failure
+# Heart Failure
 
 ![heart_failure](heart_failure.png)
 
