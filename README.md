@@ -4,7 +4,7 @@
 
 ## Objective
 
-Use a ML model to predict if a person will die from heart failure.
+Create a model for predicting mortality caused by Heart Failure.
 Hence Classification Project.
 
 ## Data
